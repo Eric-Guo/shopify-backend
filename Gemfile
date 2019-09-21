@@ -7,6 +7,7 @@ ruby "~> 2.5"
 
 gem "rails", "~> 6.0.0"
 gem "rails-i18n"
+gem "shopify_app"
 
 # Use postgresql as the database for Active Record
 gem "pg", ">= 0.18", "< 2.0"
@@ -76,3 +77,5 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+gem 'dotenv-rails', group: [:test, :development]
