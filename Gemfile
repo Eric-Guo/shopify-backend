@@ -8,6 +8,7 @@ ruby "~> 2.5"
 gem "rails", "~> 6.0.0"
 gem "rails-i18n"
 gem "shopify_app"
+gem 'sassc-rails' # Need by shopify_app
 
 # Use postgresql as the database for Active Record
 gem "pg", ">= 0.18", "< 2.0"
