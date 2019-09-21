@@ -1,0 +1,12 @@
+---
+seo_meta:
+  name: Wefocusin
+  description: Wefocusin let you checkin in focus
+  keywords: []
+
+# url_options:
+#  host: 0.0.0.0:3000
+#  protocol: http
+
+admin:
+  emails: ["eric@cloud-mes.com","shin.php@gmail.com"]
