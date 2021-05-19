@@ -14,7 +14,7 @@ gem "shopify_app", github: "Eric-Guo/shopify_app", branch: "rails_6_webpacker_on
 gem "pg", ">= 0.18", "< 2.0"
 
 # Use Puma as the app server
-gem "puma", "~> 4.0"
+gem "puma", "~> 4.3"
 # Use development version of Webpacker
 gem "webpacker", "~> 4.0"
 
